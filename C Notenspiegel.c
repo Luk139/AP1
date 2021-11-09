@@ -15,14 +15,14 @@ int main(){
 	printf("Note\t");
 	for(i=0;i<=4;i++)//Zähle bis 5 (4, weil 0 eine Zahl ist)
 	{
-		printf("%d\t",i+1); //Gib den Wert von i+1 an mit einem tab dazwischen -->  1	2	3	4	5
+		printf("%d\t",i+1); //Gib den Wert von i+1 an mit einem tab dazwischen -->  	1	2	3	4	5
 	}
 	printf("Gesamt\n");
 	printf("Anzahl  ");
 	for(i=0;i<=4;i++)//Zähle bis 5 (4, weil 0 eine Zahl ist)
 	{
 		printf("%d\t", anzahl[i]);//Gib den eingelesene Wert von i+1 an mit einem tab dazwischen 
-								  //--> z.B.    7	9	5	8	9
+										  //--> z.B.    7	9	5	8	9
 	}
 	printf("%2.0f\n",gesamtzahl);
 	
