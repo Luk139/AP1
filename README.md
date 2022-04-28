@@ -1,3 +1,3 @@
 # AP1
-joa ne, ist halt einfach code zum überprüfen ob der eigene korrekt ist oder nicht.
-Wer selber was hochladen will schreibt mich auf discord Luk139#3746 mit eurem GitHub Namen an.
+Code den ich im 1 Semester für AP1 geschrieben habe, dazu gehören die Übungs und Praktikumsaufgaben, sowie ein paar kleine eigene Programme.
+Kann gerne von jedem zum überprüfen genutzt werden.
